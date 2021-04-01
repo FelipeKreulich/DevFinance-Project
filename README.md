@@ -34,7 +34,7 @@ Foram utilizadas as seguintes ferramentas para o Projeto:
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/FelipeKreulich/Devflix-Project>
+$ git clone <https://github.com/FelipeKreulich/DevFinance-Project>
 
 # Acesse a Pasta no seu Editor de Código
 
